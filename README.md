@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently working collaboratively in GitHub for the first time
+🌱 I’m currently working collaboratively in GitHub for the first time ...
 💬 Ask me about human behavior, cognition, perceptual learning, and psychophysics
 👯 I’m looking to collaborate on sensorimotor approaches to measurement and training of cognitive function
 📫 How to reach me: dr.sebas@gmail.com
