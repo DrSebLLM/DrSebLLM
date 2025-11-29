@@ -25,8 +25,8 @@ I’m a Cognitive Scientist and Behavioral Data Scientist working at the interse
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstebanLelo&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanLelo&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrSebLLM&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrSebLLM&layout=compact)
 
 ---
 
