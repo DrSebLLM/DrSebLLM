@@ -26,7 +26,6 @@ I’m a Cognitive Scientist and Behavioral Data Scientist working at the interse
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrSebLLM&show_icons=true&theme=default&cache_seconds=7200)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrSebLLM&layout=compact&cache_seconds=7200)
 
 ---
 
