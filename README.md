@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Esteban Sebastián Lelo de Larrea-Mancera
+# 👋 Hi, I'm Esteban Sebastian Lelo de Larrea-Mancera
 
 <!-- Optional banner image (replace with your own if you'd like) -->
 <!-- ![Banner](banner.png) -->
@@ -24,8 +24,6 @@ I’m a Cognitive Scientist and Behavioral Data Scientist working at the interse
 ![Quarto](https://img.shields.io/badge/Quarto-74AADB?logo=markdown&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrSebLLM&show_icons=true&theme=default&cache_seconds=7200)
 
 ---
 
