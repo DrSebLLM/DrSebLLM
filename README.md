@@ -64,43 +64,6 @@ I’m a Cognitive Scientist and Behavioral Data Scientist working at the interse
 
 ---
 
-## 🧰 Technical Skills
-
-**Languages:** R, Python, MATLAB, Quarto, Markdown  
-**Data Science:** tidyverse, scikit-learn, lme4/glmmTMB, PCA/FA rotations, clustering, time-series, survival  
-**Tools:** Git/GitHub, RStudio, VS Code, devcontainers, CI/CD  
-**Specialized:** Psychophysics, auditory science, behavioral modeling, UX research
-
----
-
-## 🗂️ Research Repositories
-
-Organized by project:
-
-- **Bilingual** — Speech-in-noise & multilingual perception  
-- **Load** — Cognitive and perceptual load manipulations  
-- **LoFi** — Low-fidelity online hearing assessments  
-- **SpaceParty** — Multisensory spatial perception  
-- **Assessment** — Psychometrics & digital validation  
-- **Training** — Perceptual learning & adaptive tasks  
-
-Each repository includes analysis code, reproducible pipelines, and Quarto reports.
-
----
-
-## 🤝 Collaboration Interests
-
-Open to work and collaboration in:
-
-- Hearing science  
-- Cognitive neuroscience  
-- Digital health and remote assessment  
-- Behavioral data science  
-- Psychophysical research  
-- Educational tool development  
-
----
-
 ## 📫 Contact
 
 - 🌐 Mexico City  
@@ -111,6 +74,4 @@ Open to work and collaboration in:
 ## ⚡ Fun Fact  
 I want to create engaging games to substitute traditional neuropsychological assessment.
 
----
 
-*Thanks for visiting my GitHub! Feel free to explore or reach out.*  
