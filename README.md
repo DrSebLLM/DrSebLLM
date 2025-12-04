@@ -11,7 +11,8 @@ I’m a Cognitive Scientist and Behavioral Data Scientist working at the interse
 
 - 🌐 **Google Scholar:** [https://scholar.google.com/citations?user=XXXX ](https://scholar.google.com/citations?user=upsviLQAAAAJ&hl=es&oi=ao) 
 - 🧠 **ResearchGate:** [https://www.researchgate.net/profile/Esteban-Lelo-de-Larrea](https://www.researchgate.net/profile/Esteban-Lelo-De-Larrea-Mancera?ev=hdr_xprf)  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/esteban-lelo-de-larrea/ ](https://www.linkedin.com/in/larrea-mancera/) 
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/esteban-lelo-de-larrea/ ](https://www.linkedin.com/in/larrea-mancera/)
+- 📧 **Email:** dr.sebasllm@gmail.com  
 
 
 ---
@@ -59,13 +60,6 @@ I’m a Cognitive Scientist and Behavioral Data Scientist working at the interse
 - **2000+ participants** tested using digital assessment apps  
 - Led **15+ multisensory and cognitive studies**  
 - Reviewed **30+ manuscripts** across international journals
-
----
-
-## 📫 Contact
-
-- 🌐 Mexico City  
-- 📧 Email: dr.sebasllm@gmail.com  
 
 ---
 
