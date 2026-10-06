@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Esteban Sebastian Lelo de Larrea-Mancera
+# Esteban Sebastian Lelo de Larrea-Mancera
 
 <!-- Optional banner image (replace with your own if you'd like) -->
 <!-- ![Banner](banner.png) -->
