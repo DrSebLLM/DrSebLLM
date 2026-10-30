@@ -3,67 +3,14 @@
 <!-- Optional banner image (replace with your own if you'd like) -->
 <!-- ![Banner](banner.png) -->
 
-I’m a Cognitive Scientist and Behavioral Data Scientist working at the intersection of **auditory & cognitive neuroscience**, **digital health assessment**, and **data-driven product design**. I combine academic research with applied analytics, psychometrics, and perceptual-cognitive modeling — always with a focus on building tools that help people learn, think, and hear better.
+I work at the intersection of **cognitive neuroscience**, **digital health assessment**, **data-driven product design**, **experimental-design**, **data-science**, and **business-analytics**. I combine academic research with applied analytics, psychometrics, and perceptual-cognitive modeling — always with a hope of building tools and descriptions that help people learn, think, and hear better.
 
 ---
 
-## 🔗 Quick Links
-
+- **Behavioral Data Scientist**, Beway Consulting
 - 🌐 **Google Scholar:** [https://scholar.google.com/citations?user=XXXX ](https://scholar.google.com/citations?user=upsviLQAAAAJ&hl=es&oi=ao) 
-- 🧠 **ResearchGate:** [https://www.researchgate.net/profile/Esteban-Lelo-de-Larrea](https://www.researchgate.net/profile/Esteban-Lelo-De-Larrea-Mancera?ev=hdr_xprf)  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/esteban-lelo-de-larrea/ ](https://www.linkedin.com/in/larrea-mancera/)
 - 📧 **Email:** dr.sebasllm@gmail.com  
 
 
----
-
-## 📊 GitHub Stats & Badges
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
-![Quarto](https://img.shields.io/badge/Quarto-74AADB?logo=markdown&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-
----
-
-## 🔬 Research Focus
-
-- **Auditory and Cognitive Neuroscience**  
-  Central auditory processing, psychophysics, multisensory perception, speech-in-noise, loudness & temporal processing.
-
-- **Digital Health & Assessment Science**  
-  Validation of mobile/online assessment tools, cross-cultural psychometrics, hearing & cognitive screening at scale.
-
-- **Human-Centered Performance Analytics**  
-  Behavioral modeling, perceptual learning, gamification, UX research, adaptive systems.
-
-- **Statistical & Computational Methods**  
-  Robust regression, mixed-effects models, PCA/FA with rotations, clustering, survival models, bootstrapping, Bayesian exploration.
-
----
-
-## 🧠 Current Roles
-
-- **Behavioral Data Scientist**, Beway Consulting  
-- **Associated Faculty**, Northeastern University  
-- **Collaborator**, Brain Game Center (UCR & Northeastern) 
-- Building **Brain Game Center Mexico** — a hybrid academic / applied R&D initiative.
-
----
-
-## 📚 Publications & Impact
-
-- **26 peer-reviewed publications**, including **14 first-author**  
-- Work across auditory neuroscience, cognitive psychology, and digital health  
-- **2000+ participants** tested using digital assessment apps  
-- Led **15+ multisensory and cognitive studies**  
-- Reviewed **30+ manuscripts** across international journals
-
----
-
-## ⚡ Fun Fact  
-I want to create engaging games to substitute traditional neuropsychological assessment.
 
 
