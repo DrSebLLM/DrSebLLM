@@ -5,12 +5,9 @@
 
 I work at the intersection of **cognitive neuroscience**, **digital health assessment**, **data-driven product design**, **experimental-design**, **data-science**, and **business-analytics**. I combine academic research with applied analytics, psychometrics, and perceptual-cognitive modeling — always with a hope of building tools and descriptions that help people learn, think, and hear better.
 
----
-
 - **Behavioral Data Scientist**, Beway Consulting
-- 🌐 **Google Scholar:** [https://scholar.google.com/citations?user=XXXX ](https://scholar.google.com/citations?user=upsviLQAAAAJ&hl=es&oi=ao) 
-- 📧 **Email:** dr.sebasllm@gmail.com  
-
+- **Academic Researcher**, INNN, INP, Northeastern 
+- **Hunter Pirate**, MindStep
 
 
 
